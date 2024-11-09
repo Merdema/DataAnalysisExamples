@@ -30,3 +30,6 @@ plt.show()
 
 noise_reduction_ratio
 
+print(f"Gürültünün azalma orani: {noise_reduction_ratio:.2f}%")
+
+
